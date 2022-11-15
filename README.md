@@ -2,8 +2,6 @@
 
 Official Golang execution layer implementation of the PHI protocol.
 
-[![Discord](https://discord.gg/JdFD3RS8)
-
 Automated builds are available for stable releases and the unstable master branch. Binary
 archives are published at https://dev.phi.network.
 
