@@ -1,4 +1,4 @@
-## Go Ethereum
+## PHI Network Smart Chain v2 
 
 Official Golang execution layer implementation of the Ethereum protocol.
 
