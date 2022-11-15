@@ -2,11 +2,6 @@
 
 Official Golang execution layer implementation of the PHI protocol.
 
-[![API Reference](
-https://phiscan.com/api
-)](https://pkg.go.dev/github.com/Phi/go-Phi?tab=doc)
-[![Go Report Card](https://dev.phi.network](https://dev.phi.network)
-[![Community](https://phi.network)
 [![Discord](https://discord.gg/JdFD3RS8)
 
 Automated builds are available for stable releases and the unstable master branch. Binary
